@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CertificatesDataGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\\\workspaces\\\\edumarcal.github.io\\\\src\\\\data\\\\certificates.json\"\r\n\"C:\\\\workspaces\\\\edumarcal.github.io\\\\src\\\\data\\\\certificates.json\"\r\n\"C:\\\\Users\\\\eduma\\\\My\\\\CERTIFICADOS\"\r\n\"*.pdf\""
+    }
+  }
+}
